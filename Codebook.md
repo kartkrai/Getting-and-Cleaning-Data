@@ -1,7 +1,5 @@
 # Introduction
-This codebook is for the "tidydata.txt" file in the "merged" folder. The original data represent data collected from the accelerometers from the Samsung Galaxy S smartphone. 
-Description of the data is available at the following link: "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones". The actual data is available 
-at "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones". The code in run_analysis.R transforms the data and gives "tidydata.txt" as output.
+This codebook is for the "tidydata.txt" file in the "merged" folder. The original data represent data collected from the accelerometers from the Samsung Galaxy S smartphone. Description of the data is available at the following link: "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones". The actual data is available at "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones". The code in run_analysis.R transforms the data and gives "tidydata.txt" as output.
 
 # What the code does
 Following are the steps the code follows to tranform the data in run_analysis.R (also marked as comments in the original code)
